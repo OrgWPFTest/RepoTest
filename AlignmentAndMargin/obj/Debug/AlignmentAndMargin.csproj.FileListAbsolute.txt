@@ -1,0 +1,13 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\bin\Debug\AlignmentAndMargin.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\MainWindow.baml
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\MainWindow.g.cs
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\App.g.cs
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin_MarkupCompile.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin.g.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\bin\Debug\AlignmentAndMargin.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\bin\Debug\AlignmentAndMargin.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\AlignmentAndMargin\AlignmentAndMargin\obj\Debug\AlignmentAndMargin.pdb
